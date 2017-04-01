@@ -1,9 +1,1 @@
-Tajne hasła do serwera:
-login: admin
-password: admin
-
-ala  ma kota
-
-fgdfgg
-dfgdfgdfg
-dfgdfg
+a
